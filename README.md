@@ -42,3 +42,7 @@ py -m http.server 8000
 ```
 
 Then open <http://localhost:8000>. Without Firebase keys the site runs in demo mode: the admin password is `demo`, and the login page shows a "Demo: confirm now" button because no real emails are sent.
+
+## License
+
+This project is licensed under the GNU General Public License v2.0 or later (GPL-2.0-or-later). See [LICENSE](LICENSE).

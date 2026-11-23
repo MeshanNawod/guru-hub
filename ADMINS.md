@@ -9,7 +9,7 @@ In these steps, **newadmin@gmail.com** means the new admin's Gmail.
 ## Add an admin
 
 ### Step 1: Add their Gmail in Firebase
-1. Open <https://console.firebase.google.com> and click your project (**guru-hub**).
+1. Open <https://console.firebase.google.com> and click your project (the one you made for this site).
 2. In the left menu, click **Firestore Database**.
 3. Click the **Rules** tab at the top.
 4. Near the top, find the line with the admin list. With one admin, it looks like this:
